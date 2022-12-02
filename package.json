@@ -1,0 +1,26 @@
+{
+  "name": "prj-js",
+  "version": "1.0.0",
+  "description": "Projeto baseado em app para autonomos",
+  "main": "Projeto para a tarfe PWII com componentes instalados ",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Projeto",
+    "PWII",
+    "Autonomos",
+    "Tarefa",
+    "11-09"
+  ],
+  "author": "Mateus Silva dos Santos 2DS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "js": "^0.1.0",
+    "mysql2": "^2.3.3",
+    "node": "^18.9.0",
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.23.2"
+  }
+}
